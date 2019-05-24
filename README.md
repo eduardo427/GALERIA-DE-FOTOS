@@ -3,6 +3,10 @@
 <mera name="descripcion" content="esta es mi primera pagina de html">
 <meta name="keyword" content="mi primera pagina">
 
+![steve](https://user-images.githubusercontent.com/50972992/58298010-25401080-7d97-11e9-9ad3-d231a2ebae1b.jpg)
+
+
+
 <title>edu</title>
 
 <img src="logo.jpg" alt="logo de la pagina"></a>
