@@ -4,7 +4,7 @@
 <meta name="keyword" content="mi primera pagina">
 
 ![steve](https://user-images.githubusercontent.com/50972992/58298010-25401080-7d97-11e9-9ad3-d231a2ebae1b.jpg)
-
+![compu3 - copia](https://user-images.githubusercontent.com/50972992/58298124-88ca3e00-7d97-11e9-8ea6-8fae381815a9.jpg)
 
 
 <title>edu</title>
