@@ -9,7 +9,6 @@
 
 <title>edu</title>
 
-<img src="logo.jpg" alt="logo de la pagina"></a>
 <center><table border ="1" widtch="90%" bgcolor="#ffffff">
 <tr>
 <td colspan="2"><center><h1>FOTOSGRAFIAS Y VIDEOS</h></center></td>
@@ -21,24 +20,6 @@
 <center><table width="950"><td>
 
 
-<center>
-<a href="edu.html">
-<img src="inicio.png"></a>
-<a href="nosotros.html">
-<img src="nosotros.png"></a>
-<a href="servicios.html">
-<img src="servicios.png"></a>
-<a href="contacto.html">
-<img src="contacto.png"></a>
-</center>
-
-
-
-<center><br><img src="compu1.jpg" alt="banner central"></a></center>
-<center><img src="compu3.jpg" alt="banner central"></a>
-<img src="compu2.jpg" alt="banner central"></a>
-<img src="compu4.jpg" alt="banner central"></a>
-</center>
 
 </tr>
 <tr>
