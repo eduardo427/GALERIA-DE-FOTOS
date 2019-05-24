@@ -8,7 +8,7 @@
 
 
 <title>edu</title>
-
+![compu1](https://user-images.githubusercontent.com/50972992/58298157-a8f9fd00-7d97-11e9-8b6e-e1232bfeb528.jpg)
 <center><table border ="1" widtch="90%" bgcolor="#ffffff">
 <tr>
 <td colspan="2"><center><h1>FOTOSGRAFIAS Y VIDEOS</h></center></td>
